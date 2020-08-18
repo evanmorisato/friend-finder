@@ -5,6 +5,11 @@ Friend Finder is used by entering user name and adding a photo. Then the user wi
 
 ## [Try it here](https://ancient-sands-28913.herokuapp.com/)
 
+## Screenshots
+![Home](https://github.com/evanmorisato/friend-finder/blob/master/app/public/homeScreen.PNG?raw=true)
+![Survey](https://github.com/evanmorisato/friend-finder/blob/master/app/public/surveyScreen.PNG?raw=true)
+![Result](https://github.com/evanmorisato/friend-finder/blob/master/app/public/result.PNG?raw=true)
+
 ## Technologies Used:
 - JavaScript
 - jQuery
